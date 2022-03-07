@@ -41,8 +41,7 @@
       Firmware and Stl files 3D printer is released.
      </td>
      <td>
-        present from me
-        €0
+        Free €0
      </td>
    </tr>  
   <tr>  
@@ -58,27 +57,21 @@
 <img src="/images/build/Components.jpg" width="100%">
 
 ### Device Controls
-<table  width="100%">
+<table>
   <tr>
-    <th>
-      Hardware Buttons
-    </th>  
-    <th>
-      Touch Buttons 
-    </th>      
-    <th>
-      WiFi Service 
-    </th>      
+    <th>Hardware Buttons</th>  
+    <th>Touch Buttons </th>      
+    <th>WiFi Service</th>      
   </tr>  
   <tr>
     <td>       
-      <img src="/images/build/Buttons.jpg" height="600" />
+      <img src="/images/build/Buttons.jpg" height="520" />
     </td>  
     <td>
-      <img src="/images/build/TouchButtons.jpg" height="600"/>
+      <img src="/images/build/TouchButtons.jpg" height="520"/>
     </td>       
     <td>
-      <img src="/images/build/WiFiEnabled.jpg" height="600"/>
+      <img src="/images/build/WiFiEnabled.jpg" height="520"/>
     </td>       
     </td>  
   </tr>  
