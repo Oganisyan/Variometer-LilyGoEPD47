@@ -99,3 +99,15 @@
 </table>  
 
 ## Documentation
+### WiFi Server
+<table>
+  <tr>
+    <th>
+    </th>      
+  </tr>  
+  <tr>
+    <td>
+      <img src="/images/build/WiFiServer.jpg" height="1200">
+    </td>  
+  </tr>  
+</table>  
