@@ -99,6 +99,10 @@
 </table>  
 
 ## Documentation
+### Firs time flashing firmware
+![firmware/README.md](./firmware/README.md)
+
+
 ### WiFi Server
 <table>
   <tr>
