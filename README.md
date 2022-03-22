@@ -99,9 +99,18 @@
 </table>  
 
 ## Documentation
-### Firs time flashing firmware
+### Firmware flashing (just initial install)
 ![firmware/README.md](./firmware/README.md)
 
+### Hardware Buttons
+On the right side there are 5 buttons.
+<ol>
+<li>Reset (reset or start, only to be achieved with a sharp tool)</li>
+<li>IO0 is not needed. ( can only be reached with a sharp tool)</li>
+<li>Start Device or enable / disable touch menu.</li>
+<li>Vario Beep Up</li>
+<li>Vario Beep Down</li>
+</ol>
 
 ### WiFi Server
 <table>
