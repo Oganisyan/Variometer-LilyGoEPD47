@@ -103,14 +103,27 @@
 ![firmware/README.md](./firmware/README.md)
 
 ### Hardware Buttons
-On the right side there are 5 buttons.
-<ol>
-<li>Reset (reset or start, only to be achieved with a sharp tool)</li>
-<li>IO0 is not needed. ( can only be reached with a sharp tool)</li>
-<li>Start Device or enable / disable touch menu.</li>
-<li>Vario Beep Up</li>
-<li>Vario Beep Down</li>
-</ol>
+<table>
+  <tr>
+    <td>       
+      <img src="/images/Buttons.jpg" height="400"> 
+    </td>  
+    <td>
+      <h3>On the right side there are 5 buttons.</h3>
+      <ol>
+      <li>Reset (reset or start, only to be achieved with a sharp tool)</li>
+      <li>IO0 is not needed. ( can only be reached with a sharp tool)</li>
+      <li>Start Device or enable / disable touch menu.</li>
+      <li>Vario Beep Up</li>
+      <li>Vario Beep Down</li>
+      </ol>
+    </td>  
+  </tr>  
+</table>  
+
+### Touch Buttons
+TODO
+
 
 ### WiFi Server
 <table>
