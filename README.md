@@ -110,7 +110,7 @@
 
 ## Documentation
 ### Firmware flashing (just initial install)
-![firmware/README.md](./firmware/README.md)
+[firmware/README.md](./firmware/README.md)
 
 ### Hardware Buttons
 <table>
