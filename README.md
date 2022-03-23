@@ -1,5 +1,7 @@
 # Variometer-LilyGoEPD47
 
+[YouTube Video](https://www.youtube.com/watch?v=7PslrwBmsYk)
+
 ## Firmware
 ## STL-Files
 ## Build-Photos
@@ -18,6 +20,14 @@
     </td>  
     <td>
      Aliexpress from 31€. <br> Banggood 41 €
+    </td>
+  </tr> 
+  <tr>
+    <td>
+      Tochscreen 
+    </td>  
+    <td>
+     Aliexpress / Banggood  <br>about 11€
     </td>
   </tr> 
    <tr>
