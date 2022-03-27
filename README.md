@@ -69,19 +69,19 @@
 ### Device Controls
 <table>
   <tr>
-    <th>Hardware Buttons</th>  
-    <th>Touch Buttons </th>      
-    <th>WiFi Service</th>      
+    <th width="34%">Hardware Buttons</th>  
+    <th width="33%">Touch Buttons </th>      
+    <th width="33%">WiFi Service</th>      
   </tr>  
   <tr>
     <td>       
-      <img src="/images/build/Buttons.jpg" height="520" />
+      <img src="/images/build/Buttons.jpg" width="74%" />
     </td>  
     <td>
-      <img src="/images/build/TouchButtons.jpg" height="520"/>
+      <img src="/images/build/TouchButtons.jpg" width="100%"/>
     </td>       
     <td>
-      <img src="/images/build/WiFiEnabled.jpg" height="520"/>
+      <img src="/images/build/WiFiEnabled.jpg" width="98%"/>
     </td>       
     </td>  
   </tr>  
@@ -90,36 +90,42 @@
 ### inside view 
 <table>
   <tr>
-    <th>
+    <th  width="55%">
       Internal GPS antenna
     </th>  
-    <th>
+    <th  width="45%">
       External GPS antenna
     </th>      
   </tr>  
   <tr>
     <td>       
-      <img src="/images/build/MoreSpaceForVario.jpg" height="500"> 
+      <img src="/images/build/MoreSpaceForVario.jpg" width="100%"> 
     </td>  
     <td>
-      <img src="/images/build/ExternalGPSAntenna.jpg" height="300"><br>
-      <img src="/images/build/ExternalGPSAntenna2.jpg" height="200">
+      <img src="/images/build/ExternalGPSAntenna.jpg" height="50%"><br>
+      <img src="/images/build/ExternalGPSAntenna2.jpg" height="50%">
     </td>  
   </tr>  
 </table>  
 
 ## Documentation
-### Firmware flashing (just initial install)
+### Firmware flashing (just for the first installation)
 [firmware/README.md](./firmware/README.md)
 
 ### Hardware Buttons
 <table>
   <tr>
+    <th width="30%">       
+    </th>       
+    <th width="70%">       
+      <h3>On the right side there are 5 buttons.</h3>
+    </th>       
+  </tr>  
+  <tr>
     <td>       
-      <img src="/images/Buttons.jpg" height="400"> 
+      <img src="/images/Buttons.jpg"> 
     </td>  
     <td>
-      <h3>On the right side there are 5 buttons.</h3>
       <ol>
       <li>Reset (reset or start, only to be achieved with a sharp tool)</li>
       <li>IO0 is not needed. ( can only be reached with a sharp tool)</li>
@@ -138,12 +144,23 @@ TODO
 ### WiFi Server
 <table>
   <tr>
-    <th>
+    <th width="100%" align="left">
+      <ul>
+        <li>
+          Download/Upload  Config. files, Tracks
+        </li>  
+        <li>
+          BlueFly Vario Configuration
+        </li>  
+        <li>
+          Firmware Upgrade
+        </li>  
+      </ul>  
     </th>      
   </tr>  
   <tr>
     <td>
-      <img src="/images/build/WiFiServer.jpg" height="1200">
+      <img src="/images/build/WiFiServer.jpg">
     </td>  
   </tr>  
 </table>  
