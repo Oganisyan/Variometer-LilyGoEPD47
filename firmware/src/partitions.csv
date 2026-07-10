@@ -1,7 +1,7 @@
+# ESP32 partition table
 # Name,   Type, SubType, Offset,  Size, Flags
-nvs,      data, nvs,     0x9000,  0x5000,
-otadata,  data, ota,     0xe000,  0x2000,
-app0,     app,  ota_0,   0x10000, 0x200000,
-app1,     app,  ota_1,   0x210000,0x200000,
-ffat,     data, fat,     0x410000,0xBF0000,
-# to create/use ffat, see https://github.com/marcmerlin/esp32_fatfsimage
+bootloader_desc, 0x00, 0x00,     0x0, 0x2000, 
+bootloader,      0x01, 0x00, 0x1000, 0xf000,
+partition-table, 0x08, 0x00, 0x8000, 0x800,
+factory, 0x00, 0x00, 0x10000, 0x1f0000,
+storage, 0x01, 0x82, 0x200000, 0x200000,
